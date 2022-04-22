@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgb(165, 144, 100)50%,rgb(240, 167, 11)50%), url(1.jpg);
+    background-position: center;
+    background-size: center;
+    height: 109vh;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-right: 500px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 90px;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 90px;
+    margin-left: 500px;
+    background-color: #d4761d;
+   
+}
+
+.hr{
+    color: #faf9f8;
+}
+
+.m2{
+        
+    color: rgb(206, 127, 24);
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: -96px;
+    padding-right: 1px;
+    margin-right: -63px;
+    margin-top:15px;
+        border-top-right-radius: 112px;
+        border-bottom-right-radius: 110px;
+        border-top-style: ridge;
+        border-bottom-style: ridge;
+        border-left-style: ridge;
+        border-right-style: unset;
+        border-top-left-radius: 66px;
+        border-bottom-left-radius: 66px;
+        border-color: #faf9f88c;
+        padding-bottom: 23px;
+        padding-top: 28px;
+        padding-left:37px;
+        background-image: linear-gradient(to top left,rgb(0 0 0),#00000000);
+}
+
+
+h2{
+     color: rgb(145, 64, 33);  
+     font-size: xx-large;
+     border-style: groove;
+        border-top-left-radius: 80px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 80px;
+        margin-left: 313px;
+        margin-right: 936px;
+        padding-top:10px;
+        padding-bottom:10px;
+        background-image: linear-gradient(to top left,rgb(24 22 22),#00000000);
+}
+
+h3{
+    color: rgba(94, 154, 211, 0.568);  
+    font-size: xx-large;
+    border-style: groove;
+       border-top-left-radius: 80px;
+       border-top-right-radius: 20px;
+       border-bottom-left-radius: 20px;
+       border-bottom-right-radius: 80px;
+       margin-left: 936px;
+       margin-right: 313px;
+       padding-top:10px;
+       padding-bottom:10px;
+       background-image: linear-gradient(to top left,rgb(24 22 22),#00000000);
+}
+
+.para1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(211, 145, 59);
+    margin-top: 20px;
+    margin-right: 450px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 90px;
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-top-left-radius: 34px;
+    border-bottom-left-radius: 30px;
+    margin-left: 10px;
+    padding-bottom: 13px;
+    padding-top: 18px;
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(0, 0, 0));
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.bro {
+    margin-left: 118px;
+    border-style: ridge;
+    border-width: 4px;
+    border-color: #9e4200;
+    border-radius: 58px;
+    border-top: 17px;
+    border-bottom: 28px;
+}
+
+.dad {
+    border-style: ridge;
+    border-width: 4px;
+    border-color: #9e4200;
+    border-radius: 58px;
+    border-top: 7px;
+    border-bottom: 28px;
+    margin-left: -74px;
+    padding-left: 9px;
+    padding-right: 1px;
+    margin-right: -63px;
+    margin-top: 14px;
+}
+
+body {
+    background-image: url("https://wallpaper.dog/large/960999.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
